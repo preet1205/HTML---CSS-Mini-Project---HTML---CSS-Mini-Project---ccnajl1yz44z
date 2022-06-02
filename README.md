@@ -1,7 +1,7 @@
 # **Delicious Restaurant**
 _Eat Healthy , it's good for your healthy_
 
-### ** About us**
+### **About us**
 
  _Here at Delicious we serve Healthy food as we already know Healthy food is essential for good health. At Delicious we try to make healthy food according to the customer choice.
   
