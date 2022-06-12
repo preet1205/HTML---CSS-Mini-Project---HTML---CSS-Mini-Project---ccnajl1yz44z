@@ -34,7 +34,7 @@ _It's currently at a very early development stage but hoping to get it available
 * _[YouTube](https://www.youtube.com/)_
 * _[W3 Schools](https://www.w3schools.com/)_
 * _[CSS Tricks](https://css-tricks.com/)_
-* _[Articles - Ahmad Shadeed](https://www.ishadeed.com/articles/)_
+
 
 
 
